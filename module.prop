@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=ttmagiskmodule
+name=TikTok Magisk Module
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=wthtt
+description=change your region in tiktok to belarus
 template=3
