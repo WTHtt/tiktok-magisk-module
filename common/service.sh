@@ -5,3 +5,6 @@ MODDIR=${0%/*}
 
 # This script will be executed in late_start service mode
 # More info in the main Magisk thread
+setprop gsm.sim.operator.iso-country by,by
+setprop gsm.operator.iso-country by,by
+setprop gsm.sim.operator.numeric "25704" 
